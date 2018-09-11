@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+bdays.txt
+.DS_Store
